@@ -16,5 +16,6 @@ Launch zed camera, teleop, and ar_localize
 Run state controller
 
 `cd src/state_machine`
+
 `python state_controller.py`
 
